@@ -36,6 +36,6 @@ MIDPOINT : 우리 어디서 만날까?
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/856b0381-212c-4f98-ac33-9bd10afa6682">
 
 ## 6. 관련 주소
-- Figma Address
-- BE Address
-- FE Address
+- <a href="https://www.figma.com/design/QzDsktNnMnGtNBkqlKDQYj/%EC%86%94%EB%A3%A9%EC%85%98?node-id=3824-2402&t=O6WUCFepPLPCAHbg-1">Figma Address</a>
+- <a href="https://github.com/Solucitation/midpoint-backend">BE Address</a>
+- <a href="https://github.com/Solucitation/midpoint-frontend">FE Address</a>
