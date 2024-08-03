@@ -25,15 +25,33 @@ MIDPOINT : 우리 어디서 만날까?
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/cb137720-120c-4f4d-9aa3-98212269ca31">
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/03dbcc5c-b67c-4ae2-ae69-55eaf3a597be">
 
-## 3. 메뉴 구조 
+## 3. 프로젝트 아키텍처
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/f94ac091-0dfd-4697-b745-c39d0df5c450">
+
+## 4. 메뉴 구조 
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/6f08a7ca-d15c-44c0-a06e-4da7d7d2202a">
 
-## 4. 프로젝트 아키텍처
-<img width="485" alt="image" src="https://github.com/user-attachments/assets/f94ac091-0dfd-4697-b745-c39d0df5c450">
+현 프로젝트는 크게 로그인 페이지, 홈 화면 페이지, 게시판 페이지, 마이페이지로 구성되어 있습니다. 
+
+웹 페이지의 상단의 네비게이션 바를 통해 해당 페이지로 이동하실 수 있습니다. 
 
 ## 5. 구현 기능 소개 
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/e2924981-15f6-46ef-92dd-b9ee6d46c7f0">
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/856b0381-212c-4f98-ac33-9bd10afa6682">
+
+## 6. 페이지 캡쳐
+메인 페이지
+
+홈 페이지 
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/80c7d39d-83b5-4d22-8378-3d848fa1192c">
+
+게시판 페이지 
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/7728180e-1c87-4e95-9770-b2d2a3c1243a">
+
+로그인 페이지 
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/6177c27b-d974-48da-9831-9a8ac0c88bdc">
+
+회원가입 페이지
 
 ## 6. 관련 주소
 - <a href="https://www.figma.com/design/QzDsktNnMnGtNBkqlKDQYj/%EC%86%94%EB%A3%A9%EC%85%98?node-id=3824-2402&t=O6WUCFepPLPCAHbg-1">Figma Address</a>
