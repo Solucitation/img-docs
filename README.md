@@ -1,4 +1,4 @@
-# 프로젝트 소개
+![스크린샷 2024-08-04 025836](https://github.com/user-attachments/assets/5859bd85-7e21-40c6-8dbf-3c51507d8759)# 프로젝트 소개
 MIDPOINT : 우리 어디서 만날까?
 
 중간값 알고리즘을 사용한
@@ -40,16 +40,38 @@ MIDPOINT : 우리 어디서 만날까?
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/856b0381-212c-4f98-ac33-9bd10afa6682">
 
 ## 6. 페이지 캡쳐
-메인 페이지
+### 1. 로그인 페이지 
+![스크린샷 2024-08-04 023654](https://github.com/user-attachments/assets/a1f71d48-0d95-4d74-9b97-2f738f593c79)
 
-홈 페이지 
-<img width="941" alt="image" src="https://github.com/user-attachments/assets/80c7d39d-83b5-4d22-8378-3d848fa1192c">
+### 1.1 카카오 로그인 페이지
+![스크린샷 2024-08-04 023721](https://github.com/user-attachments/assets/9579b6fb-b4dc-44f8-8ba2-9fccbb07d460)
 
-게시판 페이지 
-<img width="943" alt="image" src="https://github.com/user-attachments/assets/7728180e-1c87-4e95-9770-b2d2a3c1243a">
+### 1.2 자체 로그인 페이지 
+사용자는 '아이디' 칸에 아이디 또는 이메일로 입력합니다. 
+비밀번호가 일치하지 않으면 '아이디 또는 비밀번호가 일치하지 않습니다' 에러 문구가 뜹니다.
+![스크린샷 2024-08-04 025547](https://github.com/user-attachments/assets/0f255be6-da5f-4d21-aade-e27637b04a02)
 
-로그인 페이지 
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/6177c27b-d974-48da-9831-9a8ac0c88bdc">
+
+### 2. 홈 페이지
+- 로그인을 하지 않은 상태라면 즐겨찾기 장소나 즐겨찾기 친구를 클릭해도 '로그인 후 이용해주세요' 라는 문구가 뜹니다.
+- 아래 '검색 기록'에 현재 페이지에서 사용자가 검색한 장소 리스트들이 뜹니다.
+![스크린샷 2024-08-04 025757](https://github.com/user-attachments/assets/eccecc4b-1150-42b9-8cf2-b9a835d4c71a)
+
+- 주소와 목적을 적절히 선택합니다. 
+![스크린샷 2024-08-04 025813](https://github.com/user-attachments/assets/899755bc-78cb-4693-8062-dd099994db8a)
+
+
+### 3. 장소 페이지
+- 다음과 같이 목적에 맞는 장소들 리스트가 왼쪽에 나오고, 오른쪽에는 중간지점 위치를 마커로 찍은 map이 나옵니다.
+![스크린샷 2024-08-04 025836](https://github.com/user-attachments/assets/bd8736b3-6f12-49ab-84e0-c1b3b08f5c96)
+
+- 해당 장소를 클릭하면 리뷰 페이지로 넘어갑니다. 
+![스크린샷 2024-08-04 025847](https://github.com/user-attachments/assets/33170ca1-c168-4926-ba62-cbe526ef6ff2)
+
+- 장소 저장이나 공유를 하고 싶은 경우 '장소 선택'을 누른 뒤 '공유' 또는 '장소 저장' 버튼을 클릭합니다. 
+![image](https://github.com/user-attachments/assets/f3b7c4d4-be53-4090-b300-e2db144aa459)
+
+
 
 회원가입 페이지
 
