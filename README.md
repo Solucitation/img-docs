@@ -1,4 +1,4 @@
-![스크린샷 2024-08-04 025836](https://github.com/user-attachments/assets/5859bd85-7e21-40c6-8dbf-3c51507d8759)# 프로젝트 소개
+# 프로젝트 소개
 MIDPOINT : 우리 어디서 만날까?
 
 중간값 알고리즘을 사용한
@@ -68,12 +68,59 @@ MIDPOINT : 우리 어디서 만날까?
 - 해당 장소를 클릭하면 리뷰 페이지로 넘어갑니다. 
 ![스크린샷 2024-08-04 025847](https://github.com/user-attachments/assets/33170ca1-c168-4926-ba62-cbe526ef6ff2)
 
-- 장소 저장이나 공유를 하고 싶은 경우 '장소 선택'을 누른 뒤 '공유' 또는 '장소 저장' 버튼을 클릭합니다. 
+- 장소 저장이나 공유를 하고 싶은 경우 '장소 선택'을 누른 뒤 '공유' 또는 '장소 저장' 버튼을 클릭합니다.
+- 공유
 ![image](https://github.com/user-attachments/assets/f3b7c4d4-be53-4090-b300-e2db144aa459)
 
+- 장소 저장
+- 장소 저장한 장소는 마이페이지 > 검색기록에서 확인할 수 있습니다.
+![스크린샷 2024-08-04 030028](https://github.com/user-attachments/assets/84d83d9c-7b9c-4485-aca2-3be90e7258b8)
 
+### 4. 커뮤니티 게시판 
+- 게시판 등록, 수정, 삭제, 리스트 조회, 게시글 상세 보기가 가능합니다.
+- 게시판 리스트 
+![스크린샷 2024-08-04 030753](https://github.com/user-attachments/assets/396a7459-64be-424e-b83d-3125edab3a29)
 
-회원가입 페이지
+- 게시글 상세보기
+![Uploading 스크린샷 2024-08-04 030802.png…]()
+
+- 게시판 등록
+![스크린샷 2024-08-04 031135](https://github.com/user-attachments/assets/fa814cf1-5fac-4400-9549-339e92e44185)
+
+- 게시글 수정
+![스크린샷 2024-08-04 031415](https://github.com/user-attachments/assets/6b9d41ee-1ac1-4adb-a0b0-a63cb1b230f6)
+
+- 게시글 해시태그로 보기
+![스크린샷 2024-08-04 031645](https://github.com/user-attachments/assets/f7b2127d-f921-437a-a854-0104abfce2ad)
+
+- '공'으로 키워드 검색하기 
+![스크린샷 2024-08-04 032142](https://github.com/user-attachments/assets/c9aef050-538c-4ad2-aa75-7fe5618e520c)
+
+### 5. 목적 테스트 질문 리스트
+- 사용자가 어떠한 목적을 선택할지 모를 때를 대비하여 목적 테스트를 만들었습니다. 
+![스크린샷 2024-08-04 031826](https://github.com/user-attachments/assets/20c2307b-2a0b-43ee-8bff-91b28ebcebcc)
+![스크린샷 2024-08-04 031830](https://github.com/user-attachments/assets/89735c26-38f3-4d9b-b778-f975dde9ea9f)
+![스크린샷 2024-08-04 031841](https://github.com/user-attachments/assets/82aa3c71-1d46-4d72-b894-b06f9050c321)
+
+### 6. 즐겨찾기-장소, 즐겨찾기-친구
+- 즐겨찾기 장소 추가, 편집, 삭제, 리스트 보기, 상세 보기(친구 이름, 주소)가 가능합니다.
+- 잘겨찾기 친구 추가, 편집, 삭제, 리스트 보기, 상세 보기(장소 이름,주소)가 가능합니다.
+  
+- 전체 리스트 보기 
+![스크린샷 2024-08-04 030355](https://github.com/user-attachments/assets/3381b7e3-2b8a-4fa8-9132-6aa84b558e46)
+
+- 상세보기
+![스크린샷 2024-08-04 030234](https://github.com/user-attachments/assets/327c0e12-15f1-4a63-b4fc-0568d118e4d8)
+
+- 즐겿자기 장소 > 집 > 상세보기
+![스크린샷 2024-08-04 030058](https://github.com/user-attachments/assets/ff6bacff-677b-4dc6-8937-27719ad5ed5a)
+
+- 즐겨찾기 장소 > 집 > 편집하기
+![스크린샷 2024-08-04 030111](https://github.com/user-attachments/assets/1798b143-17e1-49b6-b92a-9e53cdb54c6d)
+
+- 즐겨찾기 친구 추가하기
+![스크린샷 2024-08-04 030229](https://github.com/user-attachments/assets/ba635fcf-bfa4-4291-9c06-50e2de527e7c)
+
 
 ## 6. 관련 주소
 - <a href="https://www.figma.com/design/QzDsktNnMnGtNBkqlKDQYj/%EC%86%94%EB%A3%A9%EC%85%98?node-id=3824-2402&t=O6WUCFepPLPCAHbg-1">Figma Address</a>
